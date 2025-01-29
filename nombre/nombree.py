@@ -1,0 +1,5 @@
+print("programa para saludar")
+nombre = input("dame tu nombre")
+apellido = input("dame tu apellido")
+edad = input("dame tu edad")
+print("hola", nombre,"su apellido es", apellido, "y su edad", edad ,"años")

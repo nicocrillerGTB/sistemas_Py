@@ -1,0 +1,6 @@
+print("programa para saludar")
+nombre = input("dame tu nombre")
+apellido = input("dame tu apellido")
+edad = int(input("dame tu edad"))
+print("hola", nombre,apellido, "tu edad es", edad)
+print("el doble de tu edad es", edad*2)
