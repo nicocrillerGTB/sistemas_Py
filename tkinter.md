@@ -16,4 +16,13 @@ de esto podemos empezar a programar común y corriente
 |Label → tk.Label(parent, text="...") |Muestra texto o imágenes en la ventana.  |
 |Text → tk.Text(parent)               |Área de texto más grande con varias líneas.|
 |Frame → tk.Frame(parent)             |Contenedor para organizar otros widgets.|
-|Canvas → tk.Canvas(parent, width, height)|Dibuja gráficos y formas.  
+|Canvas → tk.Canvas(parent, width, height)|Dibuja gráficos y formas.|
+|Checkbutton → tk.Checkbutton(parent, text="...")|Casilla de verificación.|
+|Radiobutton → tk.Radiobutton(parent, text="...", variable=var, value=1)|Botones de opción para elegir una sola opción de varias.|
+|Scale → tk.Scale(parent, from_=0, to=100, orient="horizontal")|Barra deslizante para seleccionar un valor.|
+|Scrollbar → tk.Scrollbar(parent, orient="vertical")|Barra de desplazamiento.|
+|Listbox → tk.Listbox(parent)|Lista de elementos seleccionables.|
+|Spinbox → tk.Spinbox(parent, from_=0, to=10)|Cuadro de selección numérica con flechas arriba/abajo.|
+|Menu → tk.Menu(parent)|Crea un menú desplegable.|
+|Messagebox → tk.messagebox.showinfo("Título", "Mensaje")|Muestra cuadros de diálogo emergentes.|
+|Toplevel → tk.Toplevel(parent)|Crea una nueva ventana secundaria.|
