@@ -1,7 +1,7 @@
 # Tkinter - Funciones de Tkinter en diseño
 
 ### __1 - Que es :__ 
-    tkinter es la biblioteca estándar de Python para crear interfaces gráficas de usuario (GUI). Es una envoltura del toolkit Tcl/Tk y permite construir ventanas, botones, cuadros de texto, menús y más de forma sencilla....
+tkinter es la biblioteca estándar de Python para crear interfaces gráficas de usuario (GUI). Es una envoltura del toolkit Tcl/Tk y permite construir ventanas, botones, cuadros de texto, menús y más de forma sencilla....
 ### __2 - Como usarla :__
 Para poder usarla debemos poner en la parte de import, donde debemos poner:  
 ```python  
